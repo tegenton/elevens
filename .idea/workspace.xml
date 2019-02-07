@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="334c334b-8265-405b-a603-5b95718ca063" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Activity1/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity1/CardTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity1/CardTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity11/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity11/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity11/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity11/ElevensBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy1/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy1/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy1/DeckTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy2/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy2/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy2/DeckTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy3/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy3/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy3/DeckTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy4/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy4/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy4/DeckTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy5/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy5/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity5/Buggy5/DeckTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity6/Elevens.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Activity6/Elevens.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity Starter Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Activity Starter Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity2/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Activity2/Deck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,28 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity1/Card.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Activity2/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="357">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
               <folding>
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-                <element signature="e#1167#1168#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
-                <element signature="e#1340#1341#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Activity1/CardTester.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Activity2/DeckTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,6 +47,7 @@
       <list>
         <option value="$PROJECT_DIR$/Activity1/CardTester.java" />
         <option value="$PROJECT_DIR$/Activity1/Card.java" />
+        <option value="$PROJECT_DIR$/Activity2/Deck.java" />
       </list>
     </option>
   </component>
@@ -92,6 +70,11 @@
               <item name="Activity Starter Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Activity Starter Code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Activity Starter Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Activity Starter Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Activity2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,7 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549567254742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549568050095" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Activity1" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -116,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DeckTester">
     <configuration name="CardTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CardTester" />
       <module name="Activity Starter Code" />
@@ -124,8 +107,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeckTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeckTester" />
+      <module name="Activity Starter Code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeckTester" />
         <item itemvalue="Application.CardTester" />
       </list>
     </recent_temporary>
@@ -190,6 +181,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Activity4/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity1/CardTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Activity1/Card.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -205,17 +210,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity4/Card.java">
+    <entry file="file://$PROJECT_DIR$/Activity2/DeckTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity1/CardTester.java">
+    <entry file="file://$PROJECT_DIR$/Activity2/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="493">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity2/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <folding>
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
