@@ -6,7 +6,7 @@
 ```java
 ranks = {"2", ..."10", "jack", "queen", "king", "ace"};
 suits = {"spades",  "hearts", "diamonds", "clubs"};
-pointValues = {2, ...10, 10, 10, 10, 11}
+pointValues = {2, ...10, 10, 10, 10, 11};
 ```
 
 4. The order of elements in ranks and pointValues matters, as each rank will be assigned the corresponding point value, but the order of suits does not matter as each suit will have a copy of every rank.
