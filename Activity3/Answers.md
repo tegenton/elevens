@@ -6,7 +6,8 @@ public static String flip() {
         return "tails";
     }
     return "heads";
-}```
+}
+```
 
 2.
 ```java
@@ -18,6 +19,7 @@ public static boolean arePermutations(int[] a, int[] b) {
 	}
     }
     return true;
-}```
+}
+```
 
 3. 0, 2, 1, 0

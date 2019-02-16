@@ -51,6 +51,30 @@ public class DeckTester {
 		System.out.println();
 		System.out.println();
 
-		/* *** TO BE COMPLETED IN ACTIVITY 4 *** */
+		System.out.println("**** Create and Shuffle Standard Deck ****");
+		String[] standardRanks = new String[13];
+		for (int i = 0; i < standardRanks.length; i++) {
+			switch (i) {
+				case 0:
+					standardRanks[i] = "ace";
+					break;
+				case 10:
+					standardRanks[i] = "jack";
+					break;
+				case 11:
+					standardRanks[i] = "queen";
+					break;
+				case 12:
+					standardRanks[i] = "king";
+					break;
+				default:
+					standardRanks[i] = String.valueOf(i + 1);
+			}
+		}
+		String[] standardSuits = {"hearts", "diamonds", "spades", "clubs"};
+		int[] standardValues = java.util.stream.IntStream.rangeClosed(1,13).toArray();
+
+		Deck standardDeck = new Deck(standardRanks, standardSuits, standardValues);
+		System.out.println(standardDeck.toString());
 	}
 }
